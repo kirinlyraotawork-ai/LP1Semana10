@@ -29,8 +29,8 @@ namespace ArcadeLog
 
             // Ordena os Scores
             scores.Sort();
-
-
+//alallaaala
+//&&&&&&&
             // CÓDIGO AQUI
 
             // Agrupa por Medalha e Imprime (Gold → Silver → Bronze)
