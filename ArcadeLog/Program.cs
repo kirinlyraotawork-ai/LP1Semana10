@@ -38,6 +38,8 @@ namespace ArcadeLog
             // Agrupa por Medalha e Imprime (Gold → Silver → Bronze)
             foreach (string medal in new[] { "Gold", "Silver", "Bronze" })
             {
+                if (medal == "Gold")
+                
                 foreach (Score score in scores)
                 {
                     if (score.Medal == medal)
