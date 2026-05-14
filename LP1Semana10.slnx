@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="IntCollections/IntCollections.csproj" />
+  <Project Path="LP1Semana10.csproj" />
+  <Project Path="MeuTeste/MeuTeste.csproj" />
+</Solution>
