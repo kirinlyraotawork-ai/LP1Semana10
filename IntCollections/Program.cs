@@ -16,10 +16,7 @@ namespace IntCollections
             stack.Push(-30);
             stack.Push(10);
             stack.Push(-5);
-            foreach (int i in stack)
-            {
-                Console.Write(i);
-            }
+           
 
             int[] array = {1,10,-30,10,-5};
             Queue<int> queue = new();
@@ -30,7 +27,11 @@ namespace IntCollections
                 hashset.Add(i);
                 
             }
-            Console.WriteLine(string.Join(",",queue));
+            Console.WriteLine($"List: {string.Join(", ", lista )}");
+            Console.WriteLine($"Stack: {string.Join(", ", stack )}");
+            Console.WriteLine($"Queue: {string.Join(", ", queue )}");
+            Console.WriteLine($"HashSet: {string.Join(", ", hashset )}");
+            
             
         }
     }

@@ -1,4 +1,8 @@
 <Solution>
+  <Project Path="ArcadeLog/ArcadeLog.csproj" />
+  <Project Path="EqualPlayer/EqualPlayer.csproj" />
+  <Project Path="FilePower/FilePower.csproj" />
+  <Project Path="FilePower2/FilePower2.csproj" />
   <Project Path="IntCollections/IntCollections.csproj" />
   <Project Path="LP1Semana10.csproj" />
   <Project Path="MeuTeste/MeuTeste.csproj" />
