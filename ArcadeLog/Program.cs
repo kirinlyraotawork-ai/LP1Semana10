@@ -32,6 +32,7 @@ namespace ArcadeLog
 //alallaaala
 //&&&&&&&
 //fbufbwujwbfubuwfubwfbuf
+//esgegeegge
             // CÓDIGO AQUI
 
             // Agrupa por Medalha e Imprime (Gold → Silver → Bronze)
